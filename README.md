@@ -6,3 +6,6 @@ TG：https://t.me/PDMengQAQ
 QQ:2657075322
 如果你想游玩已经搭建好的公益服务器 
 请加入QQ群835212859或QQ频道d44f4991a4
+
+如果你对服务端提示感到烦躁 请前往languages\zh-cn.json修改
+
